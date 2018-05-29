@@ -1,0 +1,6 @@
+this[data][comboWithoutScore] || this[data][commWithoutScore] || this[data][newsFeed] || this[data][comboWithScore] || this[data][commWithScore] || this[data][litigation] || this[data][sme] || this[data][bir]
+#
+this[data][bir] && !(this[data][comboWithoutScore] || this[data][commWithoutScore] || this[data][newsFeed] || this[data][comboWithScore] || this[data][commWithScore] || this[data][litigation] || this[data][sme])
+#
+this[isOnlyBir]
+#
